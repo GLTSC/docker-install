@@ -4,7 +4,7 @@
 
 # 安装方法
 ```
-cd shell && sh init.sh
+cd shell && sh install.sh
 ```
 
 # 安装常见问题
